@@ -1,2 +1,2 @@
 # SQL-for-Data-Analytics
-SQL Problem and Solution
+Scario based SQL Problem and Solution
